@@ -4,3 +4,4 @@
 4- The 4th script is for listing contents in long format
 5- The 5th script is for listing hidden files
 6- The 6th script is for listing users and group IDs numerically
+7- The 7th script is for creating a directory
