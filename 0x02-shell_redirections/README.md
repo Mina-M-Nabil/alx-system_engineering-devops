@@ -1,0 +1,1 @@
+1- The 1st script is for printing a line followed by a new line
