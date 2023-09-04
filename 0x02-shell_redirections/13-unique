@@ -1,2 +1,2 @@
 #!/bin/bash
-sort list > sorted_list | uniq sorted_list
+sort list > sorted_list | uniq -u sorted_list
