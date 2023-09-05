@@ -1,0 +1,1 @@
+1- the 1st script is for creating an alias
